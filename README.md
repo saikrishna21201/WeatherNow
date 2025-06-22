@@ -1,9 +1,11 @@
-# WeatherNow ☁️🌤️  
-[![GitHub Repo stars](https://img.shields.io/github/stars/saikrishna21201/WeatherNow?style=social)](https://github.com/saikrishna21201/WeatherNow/stargazers)
-[![Forks](https://img.shields.io/github/forks/saikrishna21201/WeatherNow?style=social)](https://github.com/saikrishna21201/WeatherNow/network)
-[![GitHub license](https://img.shields.io/github/license/saikrishna21201/WeatherNow)](https://github.com/saikrishna21201/WeatherNow/blob/main/LICENSE)
+# WeatherNow ☁️🌤️
 
-A simple and clean weather application that displays real-time weather conditions for any city. Built using HTML, CSS, and vanilla JavaScript, powered by the OpenWeatherMap API.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/saikrishna21201/WeatherNow)
+![GitHub forks](https://img.shields.io/github/forks/saikrishna21201/WeatherNow)
+
+A simple and clean weather application that displays real-time weather information for any city using the OpenWeatherMap API.
+
 
 ---
 
