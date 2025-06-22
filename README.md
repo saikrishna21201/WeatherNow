@@ -27,6 +27,7 @@ A simple and clean weather application that displays real-time weather informati
 
 ## ⚙️ Setup Instructions
 
+<<<<<<< HEAD
 1. Clone the repo  
    `git clone https://github.com/saikrishna21201/WeatherNow.git`
 
@@ -59,3 +60,10 @@ This project is licensed under the [MIT License](https://github.com/saikrishna21
 
 **Saikrishna Addagudi**  
 GitHub: [@saikrishna21201](https://github.com/saikrishna21201)
+=======
+```bash
+git clone https://github.com/saikrishna21201/WeatherNow.git
+cd WeatherNow
+open index.html  # or double-click it
+
+>>>>>>> b4a139a (Trigger Github Pages rebuild)
