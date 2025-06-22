@@ -43,7 +43,7 @@ This is fine for demo purposes, but **don’t expose your key** in production ap
 
 ## 📸 Screenshot
 
-> Replace this with an actual screenshot
+
 
 ![WeatherNow Screenshot](projectui.png)
 
