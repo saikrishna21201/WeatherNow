@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WeatherNow - Real-time Weather Updates</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <div class="weather-card">
+      <header class="app-header">
+        <h1><i class="fas fa-cloud-sun"></i> WeatherNow</h1>
+        <p class="tagline">Real-time weather updates at your fingertips</p>
+      </header>
+      
+      <div class="search-container">
+        <div class="search-box">
+          <input type="text" id="cityInput" placeholder="Enter city name..." class="search-input">
+          <button onclick="getWeather()" class="search-button">
+            <i class="fas fa-search"></i> Search
+          </button>
+        </div>
+      </div>
+      
+      <div id="weatherOutput" class="weather-display">
+        <div class="welcome-message">
+          <i class="fas fa-globe-americas"></i>
+          <h2>Discover the Weather</h2>
+          <p>Enter a city name to get current weather conditions</p>
+        </div>
+      </div>
+      
+      <footer class="app-footer">
+        <p>Data provided by OpenWeatherMap</p>
+      </footer>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
